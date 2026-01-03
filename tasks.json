@@ -1,0 +1,10 @@
+[
+    {
+        "task": "study python",
+        "done": true
+    },
+    {
+        "task": "Practice Linux",
+        "done": false
+    }
+]
